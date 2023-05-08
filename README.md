@@ -1,1 +1,4 @@
-# An-efficient-Decision-Support-System-for-Agrometeorological-Data
+Over the years, farmer grievances have been rapidly increasing due the barrage of issues that they face on a regular basis. This includes not getting good harvests, shortage of resources, etc. 
+- Decision making is an important aspect of farming, as it can improve results tremendously, hence helping farmers. With the rise in technology, and great research in the realm of Data Science, there is an increasing demand for technical solutions for farmers.
+-  To solve this, I built a Decision Support System that predicts a crop to be grown based on agrometeorological factors such as rainfall, temperature, and humidity. The system was built using various machine learning algorithms.
+-   I compared multiple models, change algorithmic parameters, and decide the best model to be used. This system aims to aid the decision-making process of a farmer, and hence help them gain maximum yield with the knowledge and resources available.
